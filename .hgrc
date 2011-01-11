@@ -1,0 +1,9 @@
+[ui]
+username = Bill Jones <bill@solidnuts.com>
+verbose = True
+
+#[extensions]
+#hgext.bookmarks =
+#hggit = 
+
+

@@ -1,0 +1,12 @@
+[user]
+	name = Bill Jones
+	email = bill@averline.com
+[git-tmbundle]
+	gitx-path = /usr/local/bin/gitx
+[merge]
+	summary = true
+[color]
+	ui = auto
+[remote "demo"]
+[remote "current"]
+[core]
